@@ -6,7 +6,7 @@ Clone git
 
 Link folder SWX2 in klipper instance configuration
 
-    ln -s ~/Klipper_Sidewinder_X2_BIQU_H2_V2S_REVO/SWX2/ folderinstanceklipper/config/SWX2
+    ln -s ~/Klipper_Sidewinder_X2_BIQU_H2_V2S_REVO/SWX2/ ~/folderinstanceklipper/config/SWX2
 
 Add to printer.cfg
 
