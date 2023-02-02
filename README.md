@@ -6,7 +6,7 @@ Clone git
 Link folder SWX2 in klipper instance configuration
 Add to printer.cfg
 
-    ```
+    
     [include SWX2/*.cfg]
-    ```
+    
    
