@@ -4,8 +4,9 @@ Klipper configuration for Artillery Sidewinder X2 and BIQU H2 V2S REVO
 ## Installation
 Clone git
 Link folder SWX2 in klipper instance configuration
-Add to printer.cfg 
-    ```klipper
+Add to printer.cfg
+
+    ```
     [include SWX2/*.cfg]
     ```
    
