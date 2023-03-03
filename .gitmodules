@@ -1,0 +1,3 @@
+[submodule "SWX2/macros"]
+	path = SWX2/macros
+	url = https://github.com/jschuh/klipper-macros.git
